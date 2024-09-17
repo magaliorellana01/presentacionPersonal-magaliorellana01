@@ -3,7 +3,7 @@
 
 <b> Magalí Orellana </b> 
 
-Hola, mi nombre es Magalí Orellana tengo 27 años, soy estudiante de la tecnicatura en programación en la Universidad Nacional de Hurlingham desde el año 2021.
+Hola, mi nombre es Magalí Orellana tengo 28 años, soy estudiante de la tecnicatura en programación en la Universidad Nacional de Hurlingham desde el año 2021.
 
 Durante el verano de 2022/2023 hice un curso de desarrollo web, donde me di cuenta que me gustaba el diseño y la programación Front-End, en mis tiempos libres busco aprender nuevos lenguajes de programación.
 
